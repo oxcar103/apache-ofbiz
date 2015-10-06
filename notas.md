@@ -26,12 +26,17 @@ Referencias:
 3. https://incubator.apache.org/projects/ofbiz.html
 4. https://www.apache.org/licenses/LICENSE-2.0
 
-
 # Punto 2 - Descripción de la instalación.
 
 # Punto 5 - Empresas que utilizan OFBiz. 
 
-Referencias: https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+Stories
+Referencias:
+
+1.https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+Stories
+2. http://www.heart.org/HEARTORG
+3. https://my.messergroup.com/
+4. http://www.steinersports.com/
+5. http://www.actionenvelope.com/
 
 Borngifted: Empresa dedicada al sector de los regalos para niños, especializada en regalos para bautizos. Comenzaron a usar OFBiz en 2004, lo que les ha permitido reducir costes de administración y ofrecer un servicio mucho más amplio al cliente. 
 
@@ -39,6 +44,10 @@ British Telecom: Empresa de telecomunicaciones con sede en Londres, extendida en
 
 Just Jewelry: Empresa online estadounidense dedicada a la venta de joyas
 
+American Heart Association: Es el máximo referente científico en cardiología de Estados Unidos y el resto del mundo.Debido a su volumen de publicaciones científicas, actualmente determina y define las directrices de los avances médicos en el ámbito de la cardiología. 
 
+Messer Group:  Es un fabricante de gases industriales. Está entre las 20 compañias químicas alemanas. La compañía opera en 30 países de Europa y Asia, así como en Perú.
 
+Steinersports: Es una de las las tiendas mas importantes de New York relacionadas con la venta de artículos deportivos, entre los que se incluyen artículos firmados por jugadores. También es uno de los grandes patrocinadores de los Yankis de New York
 
+Actionenvelope: Es una empresa estadounidense encargada de la venta de artículos que te encontrarías en una papeleria. Es una empresa que ahora mismo está transdormandose en una compañía en línea
