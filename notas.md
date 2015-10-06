@@ -35,8 +35,9 @@ Referencias: https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User
 
 Borngifted: Empresa dedicada al sector de los regalos para niños, especializada en regalos para bautizos. Comenzaron a usar OFBiz en 2004, lo que les ha permitido reducir costes de administración y ofrecer un servicio mucho más amplio al cliente. 
 
+British Telecom: Empresa de telecomunicaciones con sede en Londres, extendida en más de 170 países, que ofrece servicios de telefonía, banda ancha y televisión de pago entre otros. Es una de las empresas del sector más importantes a nivel mundial. 
 
-
+Just Jewelry: Empresa online estadounidense dedicada a la venta de joyas
 
 
 
