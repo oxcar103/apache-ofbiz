@@ -28,7 +28,9 @@ Referencias:
 
 # Punto 2 - Descripción de la instalación.
 
-# Punto 4 - Funcionalidad que ofrece. 
+# Punto 3 - Funcionalidad que ofrece. 
+
+# Punto 4 - Ventajas e inconvenientes encontrados durante la prueba. 
 
 # Punto 5 - Empresas que utilizan OFBiz. 
 
