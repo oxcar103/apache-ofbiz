@@ -28,6 +28,8 @@ Referencias:
 
 # Punto 2 - Descripción de la instalación.
 
+# Punto 4 - Funcionalidad que ofrece. 
+
 # Punto 5 - Empresas que utilizan OFBiz. 
 
 Referencias:
