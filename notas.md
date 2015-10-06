@@ -32,11 +32,11 @@ Referencias:
 
 Referencias:
 
-1.https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+Stories
+1. https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+Stories
 2. http://www.heart.org/HEARTORG
 3. https://my.messergroup.com/
-4. http://www.steinersports.com/
-5. http://www.actionenvelope.com/
+4.  http://www.steinersports.com/
+5.  http://www.actionenvelope.com/
 
 Borngifted: Empresa dedicada al sector de los regalos para niños, especializada en regalos para bautizos. Comenzaron a usar OFBiz en 2004, lo que les ha permitido reducir costes de administración y ofrecer un servicio mucho más amplio al cliente. 
 
