@@ -16,3 +16,17 @@ Un claro beneficio de tener un programa de codigo abierto es que se recibe "feed
 
 
 # Punto 2 - Descripción de la instalación.
+
+# Punto 5 - Empresas que utilizan OFBiz. 
+
+Referencias: https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+Stories
+
+Borngifted: Empresa dedicada al sector de los regalos para niños, especializada en regalos para bautizos. Comenzaron a usar OFBiz en 2004, lo que les ha permitido reducir costes de administración y ofrecer un servicio mucho más amplio al cliente. 
+
+
+
+
+
+
+
+
