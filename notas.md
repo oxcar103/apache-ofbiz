@@ -22,39 +22,52 @@ Un claro beneficio de tener un programa de codigo abierto es que se recibe "feed
 Referencias:
 
 1. https://ofbiz.apache.org/apache-ofbiz-project-overview.html
-2. https://today.java.net/pub/a/today/2004/06/01/ofbiz.html
-3. https://incubator.apache.org/projects/ofbiz.html
-4. https://www.apache.org/licenses/LICENSE-2.0
+1. https://today.java.net/pub/a/today/2004/06/01/ofbiz.html
+1. https://incubator.apache.org/projects/ofbiz.html
+1. https://www.apache.org/licenses/LICENSE-2.0
 
 # Punto 2 - Descripción de la instalación.
 
 
-
 # Punto 3 - Funcionalidad que ofrece.
 
-Contabilidad.  Es la medición, procesamiento y comunicación de información financiera sobre entidades económicas.
+Compraventa: Gestión de facturas, pagos, acuerdos,
 
-Sistema de gestión de contenidos. Es una aplicación informática que permite la publicación, edición y modificación de contenido y organización, así eliminamos el mantenimiento de una interfaz central.
+Contabilidad: Gestión de activos, transacciones, cuentas bancarias, autoridades fiscales,
 
-Recursos humanos. Es el conjunto de individuos que componen la mayor parte del trabajo de una organización y también del sector empresarial.
+Catálogo: Productos que ofrece la empresas, gestión jerárquica de catálogos, gestión de inventario, ofertas, promociones, distinción entre tiendas, envíos, suscripciones.
 
-Sistema de administración de Inventario. Es una parte clave de la cadena de suministro y principalmente, tiene como objetivo controlar el movimiento y el almacenamiento de materiales dentro de un almacén y también sirve para procesar las transacciones asociadas, incluyendo el envío, recepción, entrada en stock y picking.
+Contenido: Gestor de contenidos web, principalemente la tienda online, pero incluye otros tales como foros, encuestas, blogs, etc...
 
-Gestión de proyectos. Es la parte de la planificación, organización, motivación y control de los recursos con el objetivo de alcanzar metas específicas y cumplir con criterios.
+Almacén: Gestión de stock, distintos almacenes, gestión de envíos (de cara al almacén), detalles de inventario, gestión de direcciones físicas de la empresa.
 
-Punto de venta. Es el lugar donde se completa una transacción de venta. Es el punto en el que un cliente realiza un pago al comerciante a cambio de bienes o después de que se le preste un servicio.
+Recursos humanos: Puedes poner el nombre de tu compañía. Gestión de departamentos, equipo de trabajo, empleados, gestión de cualificaciones, formación de empleados, historial de pagos, contrataciones, resúmenes, revisión de rendimiento, gestión de bajas.
 
-Comercio electronico. Es la venta de productos o prestación de servicios mediante redes informáticas, como Internet.
+Gestión de producción: Gestión de materiales.
 
-Scrum es el nombre con el que se denomina a los marcos de desarrollo ágiles caracterizados por:
+Marketing: Campañas de marketing, recogida de datos para análisis, segmentación de mercado, seguimiento de campañas online (anuncios en otros sitios web).
 
-1.Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
+Pedido: Productos que mejor se han vendido, gestión de pedidos desde la página expuesta al público, gestión de presupuestos, devoluciones, estadísticas.
 
-2.Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos autoorganizados, que en la calidad de los procesos empleados.
+Participantes: Gestión de los usuarios de la aplicación con seguimiento, los roles que se le pueden asignar, seguridad (permisos), invitaciones.
 
-3.Solapamiento de las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o de cascada.
+Automatización de fuerza de ventas: Archiva las etapas en un proceso de ventas, realizando el seguimiento de una venta en todas sus etapas, para obtener información y no repetir pasos ya dados.
+
+Administración de tareas: Gestor de tareas integrado, con calendario (y posibilidad de sincronizarlo con el del ordenador), repartición del tiempo, esfuerzo de trabajo.
+
+Inteligencia de negocios: Recoge datos genera informes a partir del análisis de estos datos, con técnicas de Data Warehousing y Data Mining.
+
+Herramientas web: Gestión interna de la aplicación (OFBiz), pudiendo exportar e importar datos en formatos estándares, gestión de los archivos de registro y la caché, administración, seguridad, configuración, etc...
 
 # Punto 4 - Ventajas e inconvenientes encontrados durante la prueba.
+
+Ventajas.
+
+Inconvenientes.
+
+El catálogo es demasiado lioso a la hora de gestionarlo.
+
+La versión de prueba no está completamente traducida al castellano.
 
 # Punto 5 - Empresas que utilizan OFBiz.
 
