@@ -71,6 +71,10 @@ Inteligencia de negocios: Recoge datos genera informes a partir del análisis de
 
 Herramientas web: Gestión interna de la aplicación (OFBiz), pudiendo exportar e importar datos en formatos estándares, gestión de los archivos de registro y la caché, administración, seguridad, configuración, etc...
 
+![](frontend.png)
+
+![](ecommerce.png)
+
 # Punto 4 - Ventajas e inconvenientes encontrados durante la prueba.
 
 Ventajas.
