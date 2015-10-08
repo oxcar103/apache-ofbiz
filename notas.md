@@ -30,6 +30,25 @@ Referencias:
 
 # Punto 3 - Funcionalidad que ofrece. 
 
+Contabilidad.  Es la medición, procesamiento y comunicación de información financiera sobre entidades económicas. 
+
+Sistema de gestión de contenidos. Es una aplicación informática que permite la publicación, edición y modificación de contenido y organización, así eliminamos el mantenimiento de una interfaz central.
+
+Recursos humanos. Es el conjunto de individuos que componen la mayor parte del trabajo de una organización y también del sector empresarial.
+
+Sistema de administración de Inventario. Es una parte clave de la cadena de suministro y principalmente, tiene como objetivo controlar el movimiento y el almacenamiento de materiales dentro de un almacén y también sirve para procesar las transacciones asociadas, incluyendo el envío, recepción, entrada en stock y picking.
+
+Gestión de proyectos. Es la parte de la planificación, organización, motivación y control de los recursos con el objetivo de alcanzar metas específicas y cumplir con criterios.
+
+Punto de venta. Es el lugar donde se completa una transacción de venta. Es el punto en el que un cliente realiza un pago al comerciante a cambio de bienes o después de que se le preste un servicio.
+
+Comercio electronico. Es la venta de productos o prestación de servicios mediante redes informáticas, como Internet.
+
+Scrum es el nombre con el que se denomina a los marcos de desarrollo ágiles caracterizados por:
+  -Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
+  -Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos autoorganizados, que en la calidad de los procesos empleados.
+  -Solapamiento de las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o de cascada.
+  
 # Punto 4 - Ventajas e inconvenientes encontrados durante la prueba. 
 
 # Punto 5 - Empresas que utilizan OFBiz. 
