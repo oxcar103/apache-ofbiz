@@ -7,7 +7,7 @@ author: Francisco David Charte, Óscar Bermúdez, Luis Castro, José Ramón Tril
 ## Nota histórica
 
 * En 2001, comenzaron como 2 proyectos separados.
-* Ese mismo año, convergieron en Open For Business (OFBiz). 
+* Ese mismo año, convergieron en Open For Business (OFBiz).
 * En 2003, OFBiz comenzó a ser usado activamente.
 * En 2006, la Apache Foundation acogió al projecto.
 
