@@ -45,9 +45,9 @@ Punto de venta. Es el lugar donde se completa una transacción de venta. Es el p
 Comercio electronico. Es la venta de productos o prestación de servicios mediante redes informáticas, como Internet.
 
 Scrum es el nombre con el que se denomina a los marcos de desarrollo ágiles caracterizados por:
-  -Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
-  -Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos autoorganizados, que en la calidad de los procesos empleados.
-  -Solapamiento de las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o de cascada.
+-Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
+-Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos autoorganizados, que en la calidad de los procesos empleados.
+-Solapamiento de las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o de cascada.
   
 # Punto 4 - Ventajas e inconvenientes encontrados durante la prueba. 
 
