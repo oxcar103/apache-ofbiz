@@ -58,22 +58,23 @@ Scrum es el nombre con el que se denomina a los marcos de desarrollo ágiles car
 
 Referencias:
 
-1. https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+Stories
-2. http://www.heart.org/HEARTORG
-3. https://my.messergroup.com/
-4.  http://www.steinersports.com/
-5.  http://www.actionenvelope.com/
+1. https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+List
 
 Borngifted: Empresa dedicada al sector de los regalos para niños, especializada en regalos para bautizos. Comenzaron a usar OFBiz en 2004, lo que les ha permitido reducir costes de administración y ofrecer un servicio mucho más amplio al cliente. 
 
 British Telecom: Empresa de telecomunicaciones con sede en Londres, extendida en más de 170 países, que ofrece servicios de telefonía, banda ancha y televisión de pago entre otros. Es una de las empresas del sector más importantes a nivel mundial. 
 
-Just Jewelry: Empresa online estadounidense dedicada a la venta de joyas
+Just Jewelry: Empresa estadounidense dedicada a la venta de joyas online. 
 
-American Heart Association: Es el máximo referente científico en cardiología de Estados Unidos y el resto del mundo.Debido a su volumen de publicaciones científicas, actualmente determina y define las directrices de los avances médicos en el ámbito de la cardiología. 
+1-800-Flowers: Empresa estadounidense dedicada a la venta de flores online. 
 
-Messer Group:  Es un fabricante de gases industriales. Está entre las 20 compañias químicas alemanas. La compañía opera en 30 países de Europa y Asia, así como en Perú.
+American Heart Association: Es una asociación sin ánimo de lucro dedicada a promover un mejor nivel de vida mediante la concienciación del ejercicio físico y una dieta responsable, financiando eventos, formando voluntarios y contribuyendo a la investigación. Ofrece productos tales como recetas de cocina saludables, dirigidas a todos los públicos o a aquellos con ciertas enfermedades como la diebetes, y también comercializa merchandising que permite a cualquier persona colaborar con la asociación. 
 
-Steinersports: Es una de las las tiendas mas importantes de New York relacionadas con la venta de artículos deportivos, entre los que se incluyen artículos firmados por jugadores. También es uno de los grandes patrocinadores de los Yankis de New York
+I Want One Of Those: Empresa británica especializada en regalos. 
 
-Actionenvelope: Es una empresa estadounidense encargada de la venta de artículos que te encontrarías en una papeleria. Es una empresa que ahora mismo está transdormandose en una compañía en línea
+United Airlines: Aerolínea estadounidense operativa en más de 170 países. 
+
+Steiner Sports: Tienda estadounidense especializada en el merchandising y material deportivo de alta gama, incluyendo artículos exclusivos de deportistas de élite. 
+
+Action Envelope: Es una empresa estadounidense encargada de la venta de sobres, tarjetas de bodas y similares. 
+
