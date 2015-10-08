@@ -18,3 +18,9 @@ author: Francisco David Charte, Óscar Bermúdez, Luis Castro, José Ramón Tril
 * Mantenible, flexible y extensible.
 * Software de código abierto con Apache License Version 2.0.
 * Reportes de errores, sugerencias de mejoras y "feedback" de sus usuarios.
+
+# Empresas que utilizan OFBiz
+* British Telecom.
+* American Heart Association.
+* United Airlines.
+* Borngifted, Just Jewelry, 1-800-Flowers, I Want One Of Those, Steiner Sports, Action Envelope,...
