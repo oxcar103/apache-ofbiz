@@ -1,5 +1,6 @@
 ---
 title: Apache OFBiz
+lang: spanish
 ---
 
 # 1. Introducción
@@ -28,6 +29,17 @@ Referencias:
 
 # Punto 2 - Descripción de la instalación.
 
+OFBiz se puede descargar en un archivo preparado para la ejecución desde el sitio oficial. Basta con descomprimir el archivador *zip* en una carpeta y ejecutar `./ant start` para arrancar la aplicación (figura \ref{inicio}). Además, se proporciona el comando `load-demo` de la utilidad `ant` para cargar datos de ejemplo que poblen la aplicación de manera que se pueda comprobar su funcionalidad.
+
+![Inicio de OFBiz\label{inicio}](instalacion.png)
+
+Puesto que OFBiz está escrito en Java, será necesario haber instalado el JDK en una versión reciente.
+
+OFBiz incluye una base de datos empotrada (IBM Derby) que puede servir para las pruebas en desarrollo, pero no es adecuada para utilizarla en un entorno de producción. Se recomiendan bases de datos más preparadas como PostgreSQL o MySQL. La configuración de la base de datos en OFBiz se realiza en el archivo `entityengine.xml`.
+
+Otros archivos XML permiten realizar la configuración de diversos parámetros, entre ellos, los ajustes de caché y depuración, seguridad, servidor (URL, puerto, servidor de correo), certificados TLS. Asimismo, la utilidad `ant` también lanza paralelamente a la aplicación de gestión un servidor web con la página de comercio online que se puede personalizar posteriormente.
+
+Tras la configuración de la aplicación se puede iniciar en otro momento con `./ant start`, que es recomendable almacenar como un servicio del sistema operativo.
 
 # Punto 3 - Funcionalidad que ofrece.
 
