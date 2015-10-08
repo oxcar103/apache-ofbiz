@@ -28,9 +28,11 @@ Referencias:
 
 # Punto 2 - Descripción de la instalación.
 
-# Punto 3 - Funcionalidad que ofrece. 
 
-Contabilidad.  Es la medición, procesamiento y comunicación de información financiera sobre entidades económicas. 
+
+# Punto 3 - Funcionalidad que ofrece.
+
+Contabilidad.  Es la medición, procesamiento y comunicación de información financiera sobre entidades económicas.
 
 Sistema de gestión de contenidos. Es una aplicación informática que permite la publicación, edición y modificación de contenido y organización, así eliminamos el mantenimiento de una interfaz central.
 
@@ -51,30 +53,29 @@ Scrum es el nombre con el que se denomina a los marcos de desarrollo ágiles car
 2.Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos autoorganizados, que en la calidad de los procesos empleados.
 
 3.Solapamiento de las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o de cascada.
-  
-# Punto 4 - Ventajas e inconvenientes encontrados durante la prueba. 
 
-# Punto 5 - Empresas que utilizan OFBiz. 
+# Punto 4 - Ventajas e inconvenientes encontrados durante la prueba.
+
+# Punto 5 - Empresas que utilizan OFBiz.
 
 Referencias:
 
 1. https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+List
 
-Borngifted: Empresa dedicada al sector de los regalos para niños, especializada en regalos para bautizos. Comenzaron a usar OFBiz en 2004, lo que les ha permitido reducir costes de administración y ofrecer un servicio mucho más amplio al cliente. 
+Borngifted: Empresa dedicada al sector de los regalos para niños, especializada en regalos para bautizos. Comenzaron a usar OFBiz en 2004, lo que les ha permitido reducir costes de administración y ofrecer un servicio mucho más amplio al cliente.
 
-British Telecom: Empresa de telecomunicaciones con sede en Londres, extendida en más de 170 países, que ofrece servicios de telefonía, banda ancha y televisión de pago entre otros. Es una de las empresas del sector más importantes a nivel mundial. 
+British Telecom: Empresa de telecomunicaciones con sede en Londres, extendida en más de 170 países, que ofrece servicios de telefonía, banda ancha y televisión de pago entre otros. Es una de las empresas del sector más importantes a nivel mundial.
 
-Just Jewelry: Empresa estadounidense dedicada a la venta de joyas online. 
+Just Jewelry: Empresa estadounidense dedicada a la venta de joyas online.
 
-1-800-Flowers: Empresa estadounidense dedicada a la venta de flores online. 
+1-800-Flowers: Empresa estadounidense dedicada a la venta de flores online.
 
-American Heart Association: Es una asociación sin ánimo de lucro dedicada a promover un mejor nivel de vida mediante la concienciación del ejercicio físico y una dieta responsable, financiando eventos, formando voluntarios y contribuyendo a la investigación. Ofrece productos tales como recetas de cocina saludables, dirigidas a todos los públicos o a aquellos con ciertas enfermedades como la diebetes, y también comercializa merchandising que permite a cualquier persona colaborar con la asociación. 
+American Heart Association: Es una asociación sin ánimo de lucro dedicada a promover un mejor nivel de vida mediante la concienciación del ejercicio físico y una dieta responsable, financiando eventos, formando voluntarios y contribuyendo a la investigación. Ofrece productos tales como recetas de cocina saludables, dirigidas a todos los públicos o a aquellos con ciertas enfermedades como la diebetes, y también comercializa merchandising que permite a cualquier persona colaborar con la asociación.
 
-I Want One Of Those: Empresa británica especializada en regalos. 
+I Want One Of Those: Empresa británica especializada en regalos.
 
-United Airlines: Aerolínea estadounidense operativa en más de 170 países. 
+United Airlines: Aerolínea estadounidense operativa en más de 170 países.
 
-Steiner Sports: Tienda estadounidense especializada en el merchandising y material deportivo de alta gama, incluyendo artículos exclusivos de deportistas de élite. 
+Steiner Sports: Tienda estadounidense especializada en el merchandising y material deportivo de alta gama, incluyendo artículos exclusivos de deportistas de élite.
 
-Action Envelope: Es una empresa estadounidense encargada de la venta de sobres, tarjetas de bodas y similares. 
-
+Action Envelope: Es una empresa estadounidense encargada de la venta de sobres, tarjetas de bodas y similares.
