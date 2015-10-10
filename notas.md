@@ -81,9 +81,13 @@ Ventajas.
 
 Amplia funcionalidad, adaptable a las necesidades concretas de cada usuario.
 
+La licencia Apache nos permite realizar cambios sin tener que publicarlos.
+
+Tenemos la posibilidad de usar distintos SGBD, como MySQL, PostgreSQL o Apache Derby, sin tener que restringirnos a uno en particular
+
 Inconvenientes.
 
-El catálogo es demasiado lioso a la hora de gestionarlo.
+El catálogo es demasiado lioso a la hora de gestionarlo, debido a la amplia jerarquía.
 
 La versión de prueba no está completamente traducida al castellano.
 
@@ -103,7 +107,7 @@ Just Jewelry: Empresa estadounidense dedicada a la venta de joyas online.
 
 American Heart Association: Es una asociación sin ánimo de lucro dedicada a promover un mejor nivel de vida mediante la concienciación del ejercicio físico y una dieta responsable, financiando eventos, formando voluntarios y contribuyendo a la investigación. Ofrece productos tales como recetas de cocina saludables, dirigidas a todos los públicos o a aquellos con ciertas enfermedades como la diebetes, y también comercializa merchandising que permite a cualquier persona colaborar con la asociación.
 
-I Want One Of Those: Empresa británica especializada en regalos.
+I Want One Of Those: Empresa británica especializada en regalos. Después de probar varios ERP de pago y de tener serios problemas con ellos -tanto de fallos del software (Priam) como de precios excesivos (Elucid)-, decidieron invertir fuertemente en su departamento de IT y diseñar un ERP que se adaptase a sus necesidades usando OFBiz. Referencia: http://www.information-age.com/technology/applications-and-development/825137/iwoots-open-source-odyssey
 
 United Airlines: Aerolínea estadounidense operativa en más de 170 países.
 
