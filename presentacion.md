@@ -43,8 +43,9 @@ theme: Dresden
 ## Incovenientes
 
 * Curva de aprendizaje muy larga
-* Catálogo lioso
+* Catálogo lioso (jerarquía)
 * Traducción al castellano incompleta
+* Documentación poco amigable para novatos
 
 # Clientes
 
