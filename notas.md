@@ -43,31 +43,31 @@ Tras la configuración de la aplicación se puede iniciar en otro momento con `.
 
 # Punto 3 - Funcionalidad que ofrece.
 
-Compraventa: Gestión de facturas, pagos, acuerdos,
+Compraventa: Gestión de facturas, pagos y acuerdos, entre otros. Al estar integrado con Orbital, CyberSource, Authorize.net, PayPal y PayflowPro OFBiz ofrece la posibilidad de procesar transacciones mediante tarjetas de crédito y PayPal de forma completamente segura.
 
-Contabilidad: Gestión de activos, transacciones, cuentas bancarias, autoridades fiscales,
+Contabilidad: Gestión de activos, transacciones, cuentas bancarias, autoridades fiscales, y todo lo relacionado con las cuentas internas de la empresa y su situación fiscal.
 
-Catálogo: Productos que ofrece la empresas, gestión jerárquica de catálogos, gestión de inventario, ofertas, promociones, distinción entre tiendas, envíos, suscripciones.
+Catálogo: Nos permite controlar los productos que ofrece la empresa, incluidos en catálogos que también podemos gestionar e incluso organizar jerárquicamente. Podremos gestionar el inventario, ofertas y promociones, todo ello con distinción entre diferentes tiendas, además de manejar envíos y suscripciones.
 
-Contenido: Gestor de contenidos web, principalemente la tienda online, pero incluye otros tales como foros, encuestas, blogs, etc...
+Contenido: Gestor de contenidos web, principalmente la tienda online, pero incluye otros tales como foros, encuestas, blogs, etc... abriendo la posibilidad de tener otros sitios web que puedan servir como lugares de discusión sobre los productos ofrecidos por la empresa.
 
-Almacén: Gestión de stock, distintos almacenes, gestión de envíos (de cara al almacén), detalles de inventario, gestión de direcciones físicas de la empresa.
+Almacén: Podremos gestionar el stock, controlar los envíos y detalles de inventario, todo esto diferenciando los almacenes en caso de haber más de uno. También permite especificar las direcciones físicas de la empresa.
 
-Recursos humanos: Puedes poner el nombre de tu compañía. Gestión de departamentos, equipo de trabajo, empleados, gestión de cualificaciones, formación de empleados, historial de pagos, contrataciones, resúmenes, revisión de rendimiento, gestión de bajas.
+Recursos humanos: Puedes poner el nombre de tu compañía (10/10 best ERP ever - FSF). Gestión de departamentos, equipos de trabajo, empleados (cualificaciones, formación de los mismos, historial de pagos), contrataciones, resúmenes, revisión de rendimiento y gestión de bajas.
 
-Gestión de producción: Gestión de materiales.
+Gestión de producción: Permite gestionar de materiales necesarios para la producción de artículos.
 
-Marketing: Campañas de marketing, recogida de datos para análisis, segmentación de mercado, seguimiento de campañas online (anuncios en otros sitios web).
+Marketing: Campañas de marketing, recogida de datos para análisis, segmentación de mercado y seguimiento de campañas online (anuncios en otros sitios web).
 
-Pedido: Productos que mejor se han vendido, gestión de pedidos desde la página expuesta al público, gestión de presupuestos, devoluciones, estadísticas.
+Pedido: Podemos ver aquellos productos que mejor se han vendido, manejar los pedidos hechos desde la página expuesta al público, gestionar presupuestos, devoluciones y visualizar estadísticas.
 
-Participantes: Gestión de los usuarios de la aplicación con seguimiento, los roles que se le pueden asignar, seguridad (permisos), invitaciones.
+Participantes: Gestión de los usuarios de la aplicación con seguimiento y de los roles que se le pueden asignar, configuración de seguridad (permisos de cada usuario) e invitaciones.
 
 Automatización de fuerza de ventas: Archiva las etapas en un proceso de ventas, realizando el seguimiento de una venta en todas sus etapas, para obtener información y no repetir pasos ya dados.
 
-Administración de tareas: Gestor de tareas integrado, con calendario (y posibilidad de sincronizarlo con el del ordenador), repartición del tiempo, esfuerzo de trabajo.
+Administración de tareas: Contiene un gestor de tareas integrado con calendario (y posibilidad de sincronizarlo con el del ordenador), repartición del tiempo y esfuerzo de trabajo.
 
-Inteligencia de negocios: Recoge datos genera informes a partir del análisis de estos datos, con técnicas de Data Warehousing y Data Mining.
+Inteligencia de negocios: Recoge datos y genera informes a partir del análisis de estos datos, con técnicas de Data Warehousing y Data Mining.
 
 Herramientas web: Gestión interna de la aplicación (OFBiz), pudiendo exportar e importar datos en formatos estándares, gestión de los archivos de registro y la caché, administración, seguridad, configuración, etc...
 
@@ -79,9 +79,15 @@ Herramientas web: Gestión interna de la aplicación (OFBiz), pudiendo exportar 
 
 Ventajas.
 
+Amplia funcionalidad, adaptable a las necesidades concretas de cada usuario.
+
+La licencia Apache nos permite realizar cambios sin tener que publicarlos.
+
+Tenemos la posibilidad de usar distintos SGBD, como MySQL, PostgreSQL o Apache Derby, sin tener que restringirnos a uno en particular
+
 Inconvenientes.
 
-El catálogo es demasiado lioso a la hora de gestionarlo.
+El catálogo es demasiado lioso a la hora de gestionarlo, debido a la amplia jerarquía.
 
 La versión de prueba no está completamente traducida al castellano.
 
@@ -101,7 +107,7 @@ Just Jewelry: Empresa estadounidense dedicada a la venta de joyas online.
 
 American Heart Association: Es una asociación sin ánimo de lucro dedicada a promover un mejor nivel de vida mediante la concienciación del ejercicio físico y una dieta responsable, financiando eventos, formando voluntarios y contribuyendo a la investigación. Ofrece productos tales como recetas de cocina saludables, dirigidas a todos los públicos o a aquellos con ciertas enfermedades como la diebetes, y también comercializa merchandising que permite a cualquier persona colaborar con la asociación.
 
-I Want One Of Those: Empresa británica especializada en regalos.
+I Want One Of Those: Empresa británica especializada en regalos. Después de probar varios ERP de pago y de tener serios problemas con ellos -tanto de fallos del software (Priam) como de precios excesivos (Elucid)-, decidieron invertir fuertemente en su departamento de IT y diseñar un ERP que se adaptase a sus necesidades usando OFBiz. Referencia: http://www.information-age.com/technology/applications-and-development/825137/iwoots-open-source-odyssey
 
 United Airlines: Aerolínea estadounidense operativa en más de 170 países.
 
