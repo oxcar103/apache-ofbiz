@@ -30,6 +30,15 @@ theme: Dresden
 
 ## Funcionalidad
 
+* Gestión de compraventa y contabilidad
+* Control sobre los pedidos, el catálogo, los almacenes y la producción
+* Gestíon de recursos humanos, con información sobre los empleados
+* Administración de tareas
+* Marketing e inteligencia de negocios 
+* Archiva las etapas del proceso de ventas 
+* Posibilidad de crear otros sitios web, como foros o blogs
+* Gestión interna de la aplicación
+
 # Ventajas e incovenientes
 
 ## Ventajas
