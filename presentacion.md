@@ -38,6 +38,23 @@ lang: spanish
 
 ![Aplicación web de Apache OFBiz](frontend.png)
 
+# Ventajas e incovenientes
+
+## Ventajas
+
+* Amplia funcionalidad
+* Licencia Apache
+* Varios posibles SGBD
+* Herramientas de automatización
+* Escrito en Java (portable)
+
+## Incovenientes
+
+* Curva de aprendizaje muy larga
+* Catálogo lioso (jerarquía)
+* Traducción al castellano incompleta
+* Documentación poco amigable para novatos
+
 # Clientes
 
 ## Empresas que utilizan OFBiz
