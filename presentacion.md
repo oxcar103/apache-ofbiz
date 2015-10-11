@@ -30,6 +30,21 @@ theme: Dresden
 
 ## Funcionalidad
 
+# Ventajas e incovenientes
+
+## Ventajas
+
+* Amplia funcionalidad
+* Licencia Apache
+* Varios posibles SGBD
+* Herramientas de automatización
+* Escrito en Java (portable)
+
+## Incovenientes
+
+* Curva de aprendizaje muy larga
+* Catálogo lioso
+* Traducción al castellano incompleta
 
 # Clientes
 
