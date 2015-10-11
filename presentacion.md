@@ -7,22 +7,26 @@ theme: Dresden
 # Introducción
 ## Nota histórica
 
-* 2001, comienza como 2 proyectos separados.
-* Ese mismo año, convergieron en Open For Business (OFBiz).
-* En 2003, OFBiz comenzó a ser usado activamente.
-* En 2006, la Apache Foundation acogió al projecto.
+* 2001, comienza como 2 proyectos separados
+* Julio 2001, convergen en Open For Business (OFBiz)
+* 2003, OFBiz empieza a ser usado activamente
+* 2006, la Apache Foundation acoge OFBiz como Top Level Project
 
 ## Introducción
 
-* Automatización de la gestión de empresas.
-* Enfocado al comercio online.
-* Mantenible, flexible y extensible.
-* Software de código abierto con Apache License Version 2.0.
-* Reportes de errores, sugerencias de mejoras y "feedback" de sus usuarios.
+* Automatización de la gestión de empresas
+* Enfocado al comercio online
+* Mantenible, flexible y extensible
+* Software de código abierto con Apache License Version 2.0
+* Reportes de errores, sugerencias de mejoras y "feedback" de sus usuarios
 
 # Uso y funcionalidad
 
 ## Instalación
+
+* Utilidad `ant`: lanza y detiene la aplicación y el sitio web
+* Configuración en archivos XML
+* Base de datos integrada: Apache Derby
 
 ## Funcionalidad
 
@@ -30,7 +34,7 @@ theme: Dresden
 # Clientes
 
 ## Empresas que utilizan OFBiz
-* British Telecom.
-* American Heart Association.
-* United Airlines.
-* Borngifted, Just Jewelry, 1-800-Flowers, I Want One Of Those, Steiner Sports, Action Envelope,...
+* British Telecom
+* American Heart Association
+* United Airlines
+* Borngifted, Just Jewelry, 1-800-Flowers, I Want One Of Those, Steiner Sports, Action Envelope...
