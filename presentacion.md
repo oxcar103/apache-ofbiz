@@ -2,15 +2,16 @@
 title: Apache OFBiz
 author: Francisco David Charte, Óscar Bermúdez, Luis Castro, José Ramón Trillo, José Carlos Entrena
 theme: Dresden
+lang: spanish
 ---
 
 # Introducción
 ## Nota histórica
 
-* 2001, comienza como 2 proyectos separados
-* Julio 2001, convergen en Open For Business (OFBiz)
-* 2003, OFBiz empieza a ser usado activamente
-* 2006, la Apache Foundation acoge OFBiz como Top Level Project
+* 2001: comienza como 2 proyectos separados
+* Julio 2001: convergen en Open For Business (OFBiz)
+* 2003: OFBiz empieza a ser usado activamente
+* 2006: la Apache Foundation acoge OFBiz como Top Level Project
 
 ## Introducción
 
@@ -28,6 +29,11 @@ theme: Dresden
 * Configuración en archivos XML
 * Base de datos integrada: Apache Derby
 
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.6\textwidth]{instalacion.png}
+\end{figure}
+
 ## Funcionalidad
 
 * Gestión de compraventa y contabilidad
@@ -38,6 +44,10 @@ theme: Dresden
 * Archiva las etapas del proceso de ventas 
 * Posibilidad de crear otros sitios web, como foros o blogs
 * Gestión interna de la aplicación
+
+-----------
+
+![Aplicación web de Apache OFBiz](frontend.png)
 
 # Ventajas e incovenientes
 
