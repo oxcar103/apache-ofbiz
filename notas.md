@@ -35,7 +35,7 @@ OFBiz se puede descargar en un archivo preparado para la ejecución desde el sit
 
 Puesto que OFBiz está escrito en Java, será necesario haber instalado el JDK en una versión reciente.
 
-OFBiz incluye una base de datos empotrada (IBM Derby) que puede servir para las pruebas en desarrollo, pero no es adecuada para utilizarla en un entorno de producción. Se recomiendan bases de datos más preparadas como PostgreSQL o MySQL. La configuración de la base de datos en OFBiz se realiza en el archivo `entityengine.xml`.
+OFBiz incluye una base de datos empotrada (Apache Derby) que puede servir para las pruebas en desarrollo, pero no es adecuada para utilizarla en un entorno de producción. Se recomiendan bases de datos más preparadas como PostgreSQL o MySQL. La configuración de la base de datos en OFBiz se realiza en el archivo `entityengine.xml`.
 
 Otros archivos XML permiten realizar la configuración de diversos parámetros, entre ellos, los ajustes de caché y depuración, seguridad, servidor (URL, puerto, servidor de correo), certificados TLS. Asimismo, la utilidad `ant` también lanza paralelamente a la aplicación de gestión un servidor web con la página de comercio online que se puede personalizar posteriormente.
 
