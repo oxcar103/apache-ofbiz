@@ -83,13 +83,19 @@ Amplia funcionalidad, adaptable a las necesidades concretas de cada usuario.
 
 La licencia Apache nos permite realizar cambios sin tener que publicarlos.
 
-Tenemos la posibilidad de usar distintos SGBD, como MySQL, PostgreSQL o Apache Derby, sin tener que restringirnos a uno en particular
+Tenemos la posibilidad de usar distintos SGBD, como MySQL, PostgreSQL o Apache Derby, sin tener que restringirnos a uno en particular.
+
+El framework incluye herramientas de automatización de testing, manejo de base de datos, cache, job scheduler, etc.
+
+Está escrito en Java, lo que permite una sencilla portabilidad entre distintos sistemas.
 
 Inconvenientes.
 
 El catálogo es demasiado lioso a la hora de gestionarlo, debido a la amplia jerarquía.
 
 La versión de prueba no está completamente traducida al castellano.
+
+La curva de aprendizaje es muy larga. Hay demasiados módulos, procesos, lenguajes... (muchas cosas programables mediante código). Mientras que encontrar documentación que facilite el aprendizaje es complicado.
 
 # Punto 5 - Empresas que utilizan OFBiz.
 
