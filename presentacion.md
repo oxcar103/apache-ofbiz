@@ -40,14 +40,18 @@ lang: spanish
 * Control sobre los pedidos, el catálogo, los almacenes y la producción
 * Gestíon de recursos humanos, con información sobre los empleados
 * Administración de tareas
-* Marketing e inteligencia de negocios 
-* Archiva las etapas del proceso de ventas 
+* Marketing e inteligencia de negocios
+* Archiva las etapas del proceso de ventas
 * Posibilidad de crear otros sitios web, como foros o blogs
 * Gestión interna de la aplicación
 
 -----------
 
-![Aplicación web de Apache OFBiz](frontend.png)
+![\ Aplicación web de Apache OFBiz](frontend.png)
+
+-----------
+
+![\ Front-end de comercio online](ecommerce.png)
 
 # Ventajas e incovenientes
 
@@ -66,10 +70,20 @@ lang: spanish
 * Traducción al castellano incompleta
 * Documentación poco amigable para novatos
 
-# Clientes
+# Usuarios
 
 ## Empresas que utilizan OFBiz
-* British Telecom
-* American Heart Association
-* United Airlines
+* British Telecom  
+  \includegraphics[width=0.3\textwidth]{BT-logo.jpg}
+* American Heart Association  
+  \includegraphics[width=0.3\textwidth]{AHA.png}
+* United Airlines  
+  \includegraphics[width=0.4\textwidth]{united.png}
 * Borngifted, Just Jewelry, 1-800-Flowers, I Want One Of Those, Steiner Sports, Action Envelope...
+
+## Ejemplo: IWOOT
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\textwidth]{iwoot.png}
+\end{figure}
