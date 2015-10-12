@@ -53,7 +53,7 @@ lang: spanish
 
 ![\ Front-end de comercio online](ecommerce.png)
 
-# Ventajas e incovenientes
+# Ventajas e inconvenientes
 
 ## Ventajas
 
@@ -63,7 +63,7 @@ lang: spanish
 * Herramientas de automatización
 * Escrito en Java (portable)
 
-## Incovenientes
+## Inconvenientes
 
 * Curva de aprendizaje muy larga
 * Catálogo lioso (jerarquía)
