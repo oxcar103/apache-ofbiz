@@ -31,7 +31,7 @@ lang: spanish
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.6\textwidth]{instalacion.png}
+\includegraphics[width=0.8\textwidth]{instalacion.png}
 \end{figure}
 
 ## Funcionalidad
@@ -87,3 +87,13 @@ lang: spanish
 \centering
 \includegraphics[width=0.7\textwidth]{iwoot.png}
 \end{figure}
+
+# Referencias
+
+## Referencias
+* [Apache OFBiz Project Overview](https://ofbiz.apache.org/apache-ofbiz-project-overview.html)
+* [java.net Success Story: Open For Business](https://today.java.net/pub/a/today/2004/06/01/ofbiz.html)
+* [Apache Incubator: OFBiz](https://incubator.apache.org/projects/ofbiz.html)
+* [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+* [Demo and Test Setup Guide - OFBiz Wiki](https://cwiki.apache.org/confluence/display/OFBIZ/Demo+and+Test+Setup+Guide)
+* [Apache OFBiz User List - OFBiz Wiki](https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+User+List)
